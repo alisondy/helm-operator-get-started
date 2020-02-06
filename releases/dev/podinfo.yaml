@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: alisondy/podinfo
-      tag: dev-6ps9vmsa
+      tag: dev-xupfgq5j
     replicaCount: 1
     hpa:
       enabled: false
